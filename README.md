@@ -1,4 +1,4 @@
-# Car-racing-game
+# Car-race-game
 
 ## Inro
 
